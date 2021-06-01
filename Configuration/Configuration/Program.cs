@@ -30,6 +30,8 @@ namespace Configuration
 
             // The precedence of the environment variables is the same as the order
             // in which they are added to the configuration builder
+            
+            // dotnet run Config:WindowSize=Rome --Config:AppName=Paris
         }
     }
 

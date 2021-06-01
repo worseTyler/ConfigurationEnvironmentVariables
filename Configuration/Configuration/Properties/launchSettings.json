@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Configuration": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Config:AppName": "InigoMontoya",
+        "Config:WindowSize": "42,42"
+      }
+    }
+  }
+}
